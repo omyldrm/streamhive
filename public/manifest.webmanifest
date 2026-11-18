@@ -1,0 +1,10 @@
+{
+  "name": "StreamHive",
+  "short_name": "StreamHive",
+  "description": "One platform for streams, donations and supporters.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111118",
+  "theme_color": "#111118",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

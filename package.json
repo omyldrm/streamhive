@@ -1,0 +1,15 @@
+{
+  "name": "streamhive",
+  "version": "1.0.0",
+  "description": "StreamHive - one platform for streams, donations and supporters. Go live from your phone or browser, no OBS needed.",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED"
+}
